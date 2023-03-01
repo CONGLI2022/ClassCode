@@ -7,5 +7,6 @@ public class GItTest {
         System.out.println("hello world 2!");
         System.out.println("hello world 2!");
         System.out.println("hot-fix test");
+        System.out.println("hot-fix test2");
     }
 }
