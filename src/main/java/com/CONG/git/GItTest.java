@@ -9,5 +9,6 @@ public class GItTest {
         System.out.println("hot-fix test");
         System.out.println("master test");
         System.out.println("hot-fix test2");
+        System.out.println("2023.3.6远程库修改");
     }
 }
